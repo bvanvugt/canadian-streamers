@@ -1,4 +1,4 @@
-| Username | Province | City | Description |
+| Streamer | Province | City | Description |
 |----------|----------|------|-------------|
 | ninja | (Province) | (City) | (Description) |
 | shroud | (Province) | (City) | (Description) |
