@@ -30,7 +30,11 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p><a href="{{ site.github.repository_url }}">Contribute on Github</a></p>
+        <p class="copyright">
+          {{ site.title | default: site.github.repository_name }} is maintained by 
+          <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+          on <a href="{{ site.github.repository_url }}">GitHub</a>. Contributions welcome!
+        </p>
       </footer>
     </div>
 
