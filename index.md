@@ -1,104 +1,104 @@
 # Canadian Streamers
 
-| Username |
-|-------|
-| [ninja](https://twitch.tv/ninja) |
-| [shroud](https://twitch.tv/shroud) |
-| [meclipse](https://twitch.tv/meclipse) |
-| [tsm_myth](https://twitch.tv/tsm_myth) |
-| [tfue](https://twitch.tv/tfue) |
-| [summit1g](https://twitch.tv/summit1g) |
-| [riotgames](https://twitch.tv/riotgames) |
-| [timthetatman](https://twitch.tv/timthetatman) |
-| [dakotaz](https://twitch.tv/dakotaz) |
-| [tsm_daequan](https://twitch.tv/tsm_daequan) |
-| [drdisrespect](https://twitch.tv/drdisrespect) |
-| [drlupo](https://twitch.tv/drlupo) |
-| [syndicate](https://twitch.tv/syndicate) |
-| [pokimane](https://twitch.tv/pokimane) |
-| [esl_csgo](https://twitch.tv/esl_csgo) |
-| [esltv_cs](https://twitch.tv/esltv_cs) |
-| [imaqtpie](https://twitch.tv/imaqtpie) |
-| [nightblue3](https://twitch.tv/nightblue3) |
-| [lirik](https://twitch.tv/lirik) |
-| [lirikk](https://twitch.tv/lirikk) |
-| [sodapoppin](https://twitch.tv/sodapoppin) |
-| [loltyler1](https://twitch.tv/loltyler1) |
-| [nickmercs](https://twitch.tv/nickmercs) |
-| [sypherpk](https://twitch.tv/sypherpk) |
-| [cdnthe3rd](https://twitch.tv/cdnthe3rd) |
-| [fortnite](https://twitch.tv/fortnite) |
-| [castro_1021](https://twitch.tv/castro_1021) |
-| [faker](https://twitch.tv/faker) |
-| [theoriginalweed](https://twitch.tv/theoriginalweed) |
-| [joshog](https://twitch.tv/joshog) |
-| [Faceit](https://twitch.tv/Faceit) |
-| [faceittv](https://twitch.tv/faceittv) |
-| [eleaguetv](https://twitch.tv/eleaguetv) |
-| [dyrus](https://twitch.tv/dyrus) |
-| [gosu](https://twitch.tv/gosu) |
-| [dreamhackcs](https://twitch.tv/dreamhackcs) |
-| [wolves_bjergsen](https://twitch.tv/wolves_bjergsen) |
-| [tsm_bjergsen](https://twitch.tv/tsm_bjergsen) |
-| [officialbjergsen](https://twitch.tv/officialbjergsen) |
-| [boxbox](https://twitch.tv/boxbox) |
-| [tsm_hamlinz](https://twitch.tv/tsm_hamlinz) |
-| [lolitofdez](https://twitch.tv/lolitofdez) |
-| [alanzoka](https://twitch.tv/alanzoka) |
-| [electronicdesire](https://twitch.tv/electronicdesire) |
-| [PhantomL0rd](https://twitch.tv/PhantomL0rd) |
-| [goldglove](https://twitch.tv/goldglove) |
-| [gdq](https://twitch.tv/gdq) |
-| [gamesdonequick](https://twitch.tv/gamesdonequick) |
-| [speeddemosarchivesda](https://twitch.tv/speeddemosarchivesda) |
-| [sgdq](https://twitch.tv/sgdq) |
-| [c9sneaky](https://twitch.tv/c9sneaky) |
-| [gotaga](https://twitch.tv/gotaga) |
-| [captainsparklez](https://twitch.tv/captainsparklez) |
-| [montanablack88](https://twitch.tv/montanablack88) |
-| [yoda](https://twitch.tv/yoda) |
-| [stonedyooda](https://twitch.tv/stonedyooda) |
-| [trick2g](https://twitch.tv/trick2g) |
-| [nl_kripp](https://twitch.tv/nl_kripp) |
-| [highdistortion](https://twitch.tv/highdistortion) |
-| [overwatchleague](https://twitch.tv/overwatchleague) |
-| [kingrichard](https://twitch.tv/kingrichard) |
-| [doublelift_renamed300203](https://twitch.tv/doublelift_renamed300203) |
-| [doublelift](https://twitch.tv/doublelift) |
-| [cizzorz](https://twitch.tv/cizzorz) |
-| [swiftor](https://twitch.tv/swiftor) |
-| [izakooo](https://twitch.tv/izakooo) |
-| [couragejd](https://twitch.tv/couragejd) |
-| [jericho](https://twitch.tv/jericho) |
-| [cohhcarnage](https://twitch.tv/cohhcarnage) |
-| [cohh](https://twitch.tv/cohh) |
-| [voyboy](https://twitch.tv/voyboy) |
-| [bobross](https://twitch.tv/bobross) |
-| [sivhd](https://twitch.tv/sivhd) |
-| [kittyplays](https://twitch.tv/kittyplays) |
-| [kittyplaysgames](https://twitch.tv/kittyplaysgames) |
-| [jahrein](https://twitch.tv/jahrein) |
-| [sovietwomble](https://twitch.tv/sovietwomble) |
-| [thenadeshot](https://twitch.tv/thenadeshot) |
-| [nadeshot](https://twitch.tv/nadeshot) |
-| [forsen](https://twitch.tv/forsen) |
-| [pewdiepie](https://twitch.tv/pewdiepie) |
-| [anomaly](https://twitch.tv/anomaly) |
-| [ungespielt](https://twitch.tv/ungespielt) |
-| [elded](https://twitch.tv/elded) |
-| [dedreviil2](https://twitch.tv/dedreviil2) |
-| [wtcn](https://twitch.tv/wtcn) |
-| [gronkh](https://twitch.tv/gronkh) |
-| [grimmmz](https://twitch.tv/grimmmz) |
-| [a_seagull](https://twitch.tv/a_seagull) |
-| [amaz](https://twitch.tv/amaz) |
-| [amazhs](https://twitch.tv/amazhs) |
-|  [pashabiceps](https://twitch.tv/pashabiceps) |
-| [kinggothalion](https://twitch.tv/kinggothalion) |
-| [tsm_theoddone](https://twitch.tv/tsm_theoddone) |
-| [unlostv](https://twitch.tv/unlostv) |
-| [markiplier](https://twitch.tv/markiplier) |
-| [anomalyxd](https://twitch.tv/anomalyxd) |
-| [disguisedtoast](https://twitch.tv/disguisedtoast) |
-| [xqcow](https://twitch.tv/xqcow) |
-| [zeeoon](https://twitch.tv/zeeoon) |
+| Username | Province | City |
+|----------|----------|------|
+| [ninja](https://twitch.tv/ninja) | (Province) | (City) |
+| [shroud](https://twitch.tv/shroud) | (Province) | (City) |
+| [meclipse](https://twitch.tv/meclipse) | (Province) | (City) |
+| [tsm_myth](https://twitch.tv/tsm_myth) | (Province) | (City) |
+| [tfue](https://twitch.tv/tfue) | (Province) | (City) |
+| [summit1g](https://twitch.tv/summit1g) | (Province) | (City) |
+| [riotgames](https://twitch.tv/riotgames) | (Province) | (City) |
+| [timthetatman](https://twitch.tv/timthetatman) | (Province) | (City) |
+| [dakotaz](https://twitch.tv/dakotaz) | (Province) | (City) |
+| [tsm_daequan](https://twitch.tv/tsm_daequan) | (Province) | (City) |
+| [drdisrespect](https://twitch.tv/drdisrespect) | (Province) | (City) |
+| [drlupo](https://twitch.tv/drlupo) | (Province) | (City) |
+| [syndicate](https://twitch.tv/syndicate) | (Province) | (City) |
+| [pokimane](https://twitch.tv/pokimane) | (Province) | (City) |
+| [esl_csgo](https://twitch.tv/esl_csgo) | (Province) | (City) |
+| [esltv_cs](https://twitch.tv/esltv_cs) | (Province) | (City) |
+| [imaqtpie](https://twitch.tv/imaqtpie) | (Province) | (City) |
+| [nightblue3](https://twitch.tv/nightblue3) | (Province) | (City) |
+| [lirik](https://twitch.tv/lirik) | (Province) | (City) |
+| [lirikk](https://twitch.tv/lirikk) | (Province) | (City) |
+| [sodapoppin](https://twitch.tv/sodapoppin) | (Province) | (City) |
+| [loltyler1](https://twitch.tv/loltyler1) | (Province) | (City) |
+| [nickmercs](https://twitch.tv/nickmercs) | (Province) | (City) |
+| [sypherpk](https://twitch.tv/sypherpk) | (Province) | (City) |
+| [cdnthe3rd](https://twitch.tv/cdnthe3rd) | (Province) | (City) |
+| [fortnite](https://twitch.tv/fortnite) | (Province) | (City) |
+| [castro_1021](https://twitch.tv/castro_1021) | (Province) | (City) |
+| [faker](https://twitch.tv/faker) | (Province) | (City) |
+| [theoriginalweed](https://twitch.tv/theoriginalweed) | (Province) | (City) |
+| [joshog](https://twitch.tv/joshog) | (Province) | (City) |
+| [Faceit](https://twitch.tv/Faceit) | (Province) | (City) |
+| [faceittv](https://twitch.tv/faceittv) | (Province) | (City) |
+| [eleaguetv](https://twitch.tv/eleaguetv) | (Province) | (City) |
+| [dyrus](https://twitch.tv/dyrus) | (Province) | (City) |
+| [gosu](https://twitch.tv/gosu) | (Province) | (City) |
+| [dreamhackcs](https://twitch.tv/dreamhackcs) | (Province) | (City) |
+| [wolves_bjergsen](https://twitch.tv/wolves_bjergsen) | (Province) | (City) |
+| [tsm_bjergsen](https://twitch.tv/tsm_bjergsen) | (Province) | (City) |
+| [officialbjergsen](https://twitch.tv/officialbjergsen) | (Province) | (City) |
+| [boxbox](https://twitch.tv/boxbox) | (Province) | (City) |
+| [tsm_hamlinz](https://twitch.tv/tsm_hamlinz) | (Province) | (City) |
+| [lolitofdez](https://twitch.tv/lolitofdez) | (Province) | (City) |
+| [alanzoka](https://twitch.tv/alanzoka) | (Province) | (City) |
+| [electronicdesire](https://twitch.tv/electronicdesire) | (Province) | (City) |
+| [PhantomL0rd](https://twitch.tv/PhantomL0rd) | (Province) | (City) |
+| [goldglove](https://twitch.tv/goldglove) | (Province) | (City) |
+| [gdq](https://twitch.tv/gdq) | (Province) | (City) |
+| [gamesdonequick](https://twitch.tv/gamesdonequick) | (Province) | (City) |
+| [speeddemosarchivesda](https://twitch.tv/speeddemosarchivesda) | (Province) | (City) |
+| [sgdq](https://twitch.tv/sgdq) | (Province) | (City) |
+| [c9sneaky](https://twitch.tv/c9sneaky) | (Province) | (City) |
+| [gotaga](https://twitch.tv/gotaga) | (Province) | (City) |
+| [captainsparklez](https://twitch.tv/captainsparklez) | (Province) | (City) |
+| [montanablack88](https://twitch.tv/montanablack88) | (Province) | (City) |
+| [yoda](https://twitch.tv/yoda) | (Province) | (City) |
+| [stonedyooda](https://twitch.tv/stonedyooda) | (Province) | (City) |
+| [trick2g](https://twitch.tv/trick2g) | (Province) | (City) |
+| [nl_kripp](https://twitch.tv/nl_kripp) | (Province) | (City) |
+| [highdistortion](https://twitch.tv/highdistortion) | (Province) | (City) |
+| [overwatchleague](https://twitch.tv/overwatchleague) | (Province) | (City) |
+| [kingrichard](https://twitch.tv/kingrichard) | (Province) | (City) |
+| [doublelift_renamed300203](https://twitch.tv/doublelift_renamed300203) | (Province) | (City) |
+| [doublelift](https://twitch.tv/doublelift) | (Province) | (City) |
+| [cizzorz](https://twitch.tv/cizzorz) | (Province) | (City) |
+| [swiftor](https://twitch.tv/swiftor) | (Province) | (City) |
+| [izakooo](https://twitch.tv/izakooo) | (Province) | (City) |
+| [couragejd](https://twitch.tv/couragejd) | (Province) | (City) |
+| [jericho](https://twitch.tv/jericho) | (Province) | (City) |
+| [cohhcarnage](https://twitch.tv/cohhcarnage) | (Province) | (City) |
+| [cohh](https://twitch.tv/cohh) | (Province) | (City) |
+| [voyboy](https://twitch.tv/voyboy) | (Province) | (City) |
+| [bobross](https://twitch.tv/bobross) | (Province) | (City) |
+| [sivhd](https://twitch.tv/sivhd) | (Province) | (City) |
+| [kittyplays](https://twitch.tv/kittyplays) | (Province) | (City) |
+| [kittyplaysgames](https://twitch.tv/kittyplaysgames) | (Province) | (City) |
+| [jahrein](https://twitch.tv/jahrein) | (Province) | (City) |
+| [sovietwomble](https://twitch.tv/sovietwomble) | (Province) | (City) |
+| [thenadeshot](https://twitch.tv/thenadeshot) | (Province) | (City) |
+| [nadeshot](https://twitch.tv/nadeshot) | (Province) | (City) |
+| [forsen](https://twitch.tv/forsen) | (Province) | (City) |
+| [pewdiepie](https://twitch.tv/pewdiepie) | (Province) | (City) |
+| [anomaly](https://twitch.tv/anomaly) | (Province) | (City) |
+| [ungespielt](https://twitch.tv/ungespielt) | (Province) | (City) |
+| [elded](https://twitch.tv/elded) | (Province) | (City) |
+| [dedreviil2](https://twitch.tv/dedreviil2) | (Province) | (City) |
+| [wtcn](https://twitch.tv/wtcn) | (Province) | (City) |
+| [gronkh](https://twitch.tv/gronkh) | (Province) | (City) |
+| [grimmmz](https://twitch.tv/grimmmz) | (Province) | (City) |
+| [a_seagull](https://twitch.tv/a_seagull) | (Province) | (City) |
+| [amaz](https://twitch.tv/amaz) | (Province) | (City) |
+| [amazhs](https://twitch.tv/amazhs) | (Province) | (City) |
+|  [pashabiceps](https://twitch.tv/pashabiceps) | (Province) | (City) |
+| [kinggothalion](https://twitch.tv/kinggothalion) | (Province) | (City) |
+| [tsm_theoddone](https://twitch.tv/tsm_theoddone) | (Province) | (City) |
+| [unlostv](https://twitch.tv/unlostv) | (Province) | (City) |
+| [markiplier](https://twitch.tv/markiplier) | (Province) | (City) |
+| [anomalyxd](https://twitch.tv/anomalyxd) | (Province) | (City) |
+| [disguisedtoast](https://twitch.tv/disguisedtoast) | (Province) | (City) |
+| [xqcow](https://twitch.tv/xqcow) | (Province) | (City) |
+| [zeeoon](https://twitch.tv/zeeoon) | (Province) | (City) |
