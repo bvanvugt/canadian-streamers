@@ -28,3 +28,15 @@
 | VerboOW | Toronto ON |  |
 | JoemeisterOW | Toronto ON |  |
 | agilities | Blairmore AB |  |
+| loadingreadyrun | Victoria BC | |
+| unarmedoracle | Victoria BC | |
+| bengineering | Victoria BC | |
+| sergeyager | Victoria BC | |
+| lunarjade | Victoria BC | |
+| SlyTQ | Victoria BC | |
+| Kathleen_LRR | Victoria BC | |
+| Seabats | Victoria BC | |
+| Voxlunch | Victoria BC | |
+| bcmountainman | Vancouver BC | |
+| therealguyjudge | Vancouver BC | |
+| Featherweight_ | Toronto ON | |
