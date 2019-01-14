@@ -1,9 +1,9 @@
 | Streamer | Province | City | Description |
 |----------|----------|------|-------------|
-| shroud | ? | ? | ? |
-| Cirno_tv | ? | ? | ? |
-| brotatoe | ? | ? | ? |
-| ikasperr | ? | ? | ? |
-| oldvulpine | ? | ? | ? |
-| tehmorag | ? | ? | ? |
-| lagtvmaximusblack | ? | ? | ? |
+| shroud | Ontario | Mississauga | |
+| Cirno_tv | Alberta | | |
+| brotatoe | Ontario | Toronto | |
+| ikasperr | Alberta | | |
+| oldvulpine | British Columbia | Vancouver | |
+| tehmorag | British Columbia | | |
+| lagtvmaximusblack | Nova Scotia | Halifax | |
