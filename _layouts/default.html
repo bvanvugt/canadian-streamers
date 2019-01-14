@@ -48,11 +48,29 @@
         $('table tr').each(function(i, row) {
           var $cells = $(row).find('td');
           if($cells.length == 0) { return; }
-          
-          var username = $cells.first().text();
-          $cells.first().html(
-            '<a href="https://twitch.tv/' + username + '">' + username + '</a>'
-          );
+
+          var $usernameCell = $cells.first();
+          var descriptionCell = $cells.last();
+
+          var username = $usernameCell.text();
+
+          fetch('https://api.twitch.tv/helix/streams?user_login=' + username, {
+            method: 'GET',
+            headers: new Headers({
+                "Client-ID": "vktz6plnlo8v0vv9ntgwz3joprjh3e",
+            })
+          }).then(function(response) {
+            if( response.ok ) {
+                return response.json()
+            }
+          }).then(function(data) {
+            var online = (data.data.length > 0 && data.data[0].type == 'live');
+            console.log(data);
+            $usernameCell.first().html(
+              '<div class="circle ' + (online ? 'online' : '') +
+              '"></div><a href="https://twitch.tv/' + username + '">' + username + '</a>'
+            );
+          });
         });
       });
     </script>
