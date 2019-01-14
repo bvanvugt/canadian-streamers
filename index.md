@@ -28,7 +28,7 @@
 | VerboOW | Toronto ON |  |
 | JoemeisterOW | Toronto ON |  |
 | agilities | Blairmore AB |  |
-| loadingreadyrun | Victoria BC | |
+| LoadingReadyRun | Victoria BC | |
 | unarmedoracle | Victoria BC | |
 | bengineering | Victoria BC | |
 | sergeyager | Victoria BC | |
