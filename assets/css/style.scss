@@ -3,15 +3,19 @@
 
 @import "{{ site.theme }}";
 
-.circle {
-  display: inline-block;
-  height: 0.6em;
-  width: 0.6em;
-  background-color: #ccc;
-  border-radius: 50%;
-  margin-right: 5px;
+table {
+  display: none;
   
-  &.online {
-    background-color: #2dc937;
+  .circle {
+    display: inline-block;
+    height: 0.6em;
+    width: 0.6em;
+    background-color: #ccc;
+    border-radius: 50%;
+    margin-right: 5px;
+
+    &.online {
+      background-color: #2dc937;
+    }
   }
 }
