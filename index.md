@@ -1,30 +1,30 @@
-| Streamer | Province | City | Description |
+| Streamer | Where | Description |
 |----------|----------|------|-------------|
-| shroud | ON | Mississauga | |
-| Cirno_tv | AB | | |
-| brotatoe | ON | Toronto | |
-| ikasperr | AB | | |
-| oldvulpine | BC | Vancouver | |
-| tehmorag | BC | | |
-| lagtvmaximusblack | NS | Halifax | |
-| cheeryrae | BC | Vancouver | |
-| skinnyghost | BC | Vancouver | |
-| DistractedElf | AB | Edmonton | |
-| Halifax | NS | Halifax | |
-| novawar | NS | Halifax | |
-| SaltyKernal | ON | Kingston | |
-| kate | BC | Victoria | |
-| kaypikefashion | AB | Calgary | |
-| hikkarudreamin | AB | Edmonton | |
-| nightwalker87 | ON | Ottawa |  |
-| ShadyLurk3r | ON | Toronto |  |
-| Mercury869 | AB | Edmonton |  |
-| getsmithywithit | AB | Edmonton |  |
-| Chads_b | AB |  |  |
-| troycanadian | ON | Toronto |  |
-| aui_2000 | BC | Vancouver |  |
-| arteezy | BC | Vancouver |  |
-| missharvey | QC | Montreal |  |
-| VerboOW | ON | Toronto |  |
-| JoemeisterOW | ON | Toronto |  |
-| agilities | AB | Blairmore |  |
+| shroud | Mississauga ON | |
+| Cirno_tv | AB | |
+| brotatoe | Toronto ON | |
+| ikasperr | AB | |
+| oldvulpine | Vancouver BC | |
+| tehmorag | BC | |
+| lagtvmaximusblack | Halifax NS | |
+| cheeryrae | Vancouver BC | |
+| skinnyghost | Vancouver BC | |
+| DistractedElf | Edmonton AB | |
+| Halifax | Halifax NS | |
+| novawar | Halifax NS| |
+| SaltyKernal | Kingston ON | |
+| kate | Victoria BC | |
+| kaypikefashion | Calgary AB | |
+| hikkarudreamin | Edmonton AB | |
+| nightwalker87 | Ottawa ON |  |
+| ShadyLurk3r | Toronto ON |  |
+| Mercury869 | Edmonton AB |  |
+| getsmithywithit | Edmonton AB |  |
+| Chads_b | AB |  |
+| troycanadian | Toronto ON |  |
+| aui_2000 | Vancouver BC |  |
+| arteezy | Vancouver BC |  |
+| missharvey | Montreal QC |  |
+| VerboOW | Toronto ON |  |
+| JoemeisterOW | Toronto ON |  |
+| agilities | Blairmore AB |  |
