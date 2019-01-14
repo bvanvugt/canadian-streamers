@@ -45,37 +45,79 @@
 
     <script>
       $( document ).ready(function() {
+        var streamers = [];
+        var usernames = [];
+        
         $('table tr').each(function(i, row) {
           var $cells = $(row).find('td');
-          if($cells.length == 0) { return; }
+          if($cells.length != 3) { return; }
 
-          var $usernameCell = $cells.first();
-          var descriptionCell = $cells.last();
-
-          var username = $usernameCell.text();
-
-          fetch('https://api.twitch.tv/helix/streams?user_login=' + username, {
-            method: 'GET',
-            headers: new Headers({
-                "Client-ID": "vktz6plnlo8v0vv9ntgwz3joprjh3e",
-            })
-          }).then(function(response) {
-            if( response.ok ) {
-                return response.json()
-            }
-          }).then(function(data) {
-            var online = (data.data.length > 0 && data.data[0].type == 'live');
-            
-            
-            $usernameCell.first().html(
-              '<div class="circle ' + (online ? 'online' : '') +
-              '"></div><a href="https://twitch.tv/' + username + '">' + username + '</a>'
-            );
+          streamers.push({
+            "username": $cells.eq(0).text(),
+            "location": $cells.eq(1).text(),
+            "description": $cells.eq(2).text(),
+            "online": false
           });
+          usernames.push($cells.eq(0).text());
+
+          $(row).remove();
+        });
+
+        var fetchURL = 'https://api.twitch.tv/helix/streams';
+        $.each(usernames, function(i, username) {
+          fetchURL += (i == 0 ? '?' : '&') + 'user_login=' + username;
+        });
+        
+        fetch(fetchURL, {
+          method: 'GET',
+          headers: new Headers({
+              "Client-ID": "vktz6plnlo8v0vv9ntgwz3joprjh3e",
+          })
+        }).then(function(response) {
+          if (response.ok) {
+            return response.json();
+          }
+        }).then(function(data) {
+          $.each(data.data, function(i, streamInfo) {
+            $.each(streamers, function(ii, streamer) {
+              if(streamer.username.toLowerCase() == streamInfo.user_name.toLowerCase()) {
+                streamer.online = true;
+              }
+            });
+          });
+
+          streamers.sort(function() { return 0.5 - Math.random() });
+
+          $.each(streamers, function(i, streamer) {
+            if(streamer.online) {
+              $('table tr:last').after(
+                '<tr>' +
+                '<td><div class="circle online"></div><a href="https://twitch.tv/' + 
+                  streamer.username + '">' + streamer.username + '</a></td>' +
+                '<td>' + streamer.location + '</td>' +
+                '<td>' + streamer.description + '</td>' +
+                '</tr>'
+              );
+            }
+          });
+          $.each(streamers, function(i, streamer) {
+            if(!streamer.online) {
+              $('table tr:last').after(
+                '<tr>' +
+                '<td><div class="circle"></div><a href="https://twitch.tv/' + 
+                  streamer.username + '">' + streamer.username + '</a></td>' +
+                '<td>' + streamer.location + '</td>' +
+                '<td>' + streamer.description + '</td>' +
+                '</tr>'
+              );
+            }
+          });
+
+          $('table').show();
         });
       });
     </script>
-
+    
     {% if site.google_analytics %}
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
