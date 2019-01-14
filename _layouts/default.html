@@ -65,7 +65,8 @@
             }
           }).then(function(data) {
             var online = (data.data.length > 0 && data.data[0].type == 'live');
-            console.log(data);
+            
+            
             $usernameCell.first().html(
               '<div class="circle ' + (online ? 'online' : '') +
               '"></div><a href="https://twitch.tv/' + username + '">' + username + '</a>'
