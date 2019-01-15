@@ -170,15 +170,14 @@
             });
 
             var $offlineTable = $('<table></table>')
-            $offlineTable.html('<thead><tr><th colspan="2">' + offlineStreamers.length + ' Streamers Offline</th></tr></thead><tbody></tbody>');
+            $offlineTable.html('<thead><tr><th>' + offlineStreamers.length + ' Streamers Offline</th></tr></thead><tbody></tbody>');
             offlineStreamers.sort(usernameSortAsc);
             $.each(offlineStreamers, function(i, streamer) {
               $offlineTable.find('tbody').append(
-                '<tr>' +
-                '<td><div class="circle"></div><a href="https://twitch.tv/' + 
-                  streamer.username + '">' + streamer.username + '</a></td>' +
-                '<td class="location">' + streamer.location + '</td>' +
-                '</tr>'
+                '<tr><td>' +
+                '<p><span class="circle"></span><a href="https://twitch.tv/' + streamer.username + '">' + streamer.username + '</a></p>' +
+                '<p class="location">' + streamer.location + '</p>' +
+                '</td></tr>'
               );
             });
             $onlineTable.after($offlineTable);
