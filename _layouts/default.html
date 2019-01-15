@@ -164,10 +164,9 @@
                 '<tr>' +
                 '<td><div class="circle online"></div><a href="https://twitch.tv/' + 
                   streamer.username + '">' + streamer.username + '</a></td>' +
-                '<td>' + streamer.location + '</td>' +
-                '<td>' + streamer.game + ' for ' + streamer.viewers.toLocaleString() + ' viewers</td>' +
-                '</tr>'
-              );
+                '<td class="location online">' + streamer.location + '</td>' +
+                '<td class="description online">' + streamer.game + ' for ' + streamer.viewers.toLocaleString() + ' viewers</td>' +
+                '</tr>'              );
             });
 
             var $offlineTable = $('<table></table>')
