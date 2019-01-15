@@ -6,6 +6,14 @@
 table {
   display: none;
   
+  p {
+    margin: 0px;
+    
+    .location, .game {
+      font-size: 12px;
+    }
+  }
+  
   .circle {
     display: inline-block;
     height: 0.6em;
@@ -17,12 +25,5 @@ table {
     &.online {
       background-color: #2dc937;
     }
-  }
-  
-  .location {
-    font-size: 12px;
-  }
-  .description {
-    font-size: 12px;
   }
 }
