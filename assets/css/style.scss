@@ -9,7 +9,7 @@ table {
   p {
     margin: 0px;
     
-    &.game {
+    &.game, &.location {
       font-size: 12px;
     }
   }
