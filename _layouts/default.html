@@ -157,16 +157,16 @@
             }
 
             var $onlineTable = $('table');
-            $onlineTable.html('<thead><tr><th colspan="3">' + onlineStreamers.length + ' Streamers Online</th></tr></thead><tbody></tbody>');
+            $onlineTable.html('<thead><tr><th>' + onlineStreamers.length + ' Streamers Online</th></tr></thead><tbody></tbody>');
             onlineStreamers.sort(usernameSortAsc);
             $.each(onlineStreamers, function(i, streamer) {
               $onlineTable.find('tbody').append(
-                '<tr>' +
-                '<td><div class="circle online"></div><a href="https://twitch.tv/' + 
-                  streamer.username + '">' + streamer.username + '</a></td>' +
-                '<td class="location online">' + streamer.location + '</td>' +
-                '<td class="description online">' + streamer.game + ' for ' + streamer.viewers.toLocaleString() + ' viewers</td>' +
-                '</tr>'              );
+                '<tr><td>' +
+                '<p><span class="circle online"></span><a href="https://twitch.tv/' + streamer.username + '">' + streamer.username + '</a></p>' +
+                '<p class="location">' + streamer.location + '</p>' +
+                '<p class="game">' + streamer.game + ' for ' + streamer.viewers.toLocaleString() + ' viewers</p>' +
+                '</td></tr>'
+              );
             });
 
             var $offlineTable = $('<table></table>')
