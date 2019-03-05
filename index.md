@@ -44,3 +44,4 @@
 | KittyPlays | Kelowna BC | |
 | navious | Smithers BC | |
 | Not_Jenn | ON | |
+| canageek | Vancouver BC | Chemistry lab work, crystallography, occasionally video games |
