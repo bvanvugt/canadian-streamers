@@ -1,6 +1,5 @@
 | Streamer | Where | Description |
 |----------|-------|-------------|
-| shroud | Mississauga ON | |
 | Cirno_tv | AB | |
 | brotatoe | Toronto ON | |
 | ikasperr | AB | |
