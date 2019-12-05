@@ -27,7 +27,7 @@
 | VerboOW | Toronto ON |  |
 | JoemeisterOW | Toronto ON |  |
 | agilities | Blairmore AB |  |
-| loadingreadyrun | Victoria BC | |
+| LoadingReadyRun | Victoria BC | |
 | unarmedoracle | Victoria BC | |
 | bengineering | Victoria BC | |
 | sergeyager | Victoria BC | |
@@ -43,4 +43,6 @@
 | KittyPlays | Kelowna BC | |
 | navious | Smithers BC | |
 | Not_Jenn | ON | |
-| Foxfrie | BC | |
+| Foxfrie | Victoria BC | |
+| canageek | Vancouver BC | Chemistry lab work, crystallography, occasionally video games |
+| tiltyhouse | Victoria BC | |
