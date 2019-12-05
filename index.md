@@ -46,3 +46,4 @@
 | Foxfrie | Victoria BC | |
 | canageek | Vancouver BC | Chemistry lab work, crystallography, occasionally video games |
 | tiltyhouse | Victoria BC | |
+| BattlesnakeOfficial | Victoria BC | Programming competitions! |
