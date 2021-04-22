@@ -47,3 +47,5 @@
 | canageek | Vancouver BC | Chemistry lab work, crystallography, occasionally video games |
 | tiltyhouse | Victoria BC | |
 | BattlesnakeOfficial | Victoria BC | Programming competitions! |
+| ElleRows | Toronto ON | |
+| ThanksInternet | Victoria BC | |
